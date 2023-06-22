@@ -1,8 +1,7 @@
 <script setup>
+import Board from '@/components/board/Board.vue'
 </script>
 
 <template>
-    <main>
-        we
-    </main>
+  <Board />
 </template>
